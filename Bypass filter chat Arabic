@@ -24,4 +24,13 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 	Icon = "http://www.roblox.com/asset/?id=2541869220"})
 Duration = 5;
 
--- ليش انت هنا؟ رجاء لا تسرق سكربت
+wait(5)
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "⛔تحذير⛔";
+	Text = "هذا سكربت مجاني غير مدفوع";
+	Icon = "http://www.roblox.com/asset/?id=2541869220"})
+Duration = 5;
+
+-- ليش انت هنا؟ 🤔🤨
+-- رجاء لا تعدل على سكربت 😔🙏
